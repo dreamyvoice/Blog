@@ -1,2 +1,2 @@
 
-download (http://brackets.io/)
+[download] (http://brackets.io/)
