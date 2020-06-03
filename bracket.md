@@ -1,2 +1,2 @@
 
-[download] (http://brackets.io/)
+Link: [bracket](https://wavplex.tistory.com/)
