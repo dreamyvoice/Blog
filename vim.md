@@ -24,3 +24,13 @@ https://github.com/junegunn/vim-plug
 
 :pluginstall
 
+## vimtutor로 연습(vimtutor ko)
+vimrc 편집
+
+w file.txt   // file.txt 파일로 저장
+
+wq! // 강제 저장 후 종료
+
+i 커서의 위치에 입력
+
+yy 또는 Y 커서가 있는 한 행 복사
