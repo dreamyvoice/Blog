@@ -1,4 +1,4 @@
-linK[https://gist.github.com/berkorbay/6feda478a00b0432d13f1fc0a50467f1]
+link [https://gist.github.com/berkorbay/6feda478a00b0432d13f1fc0a50467f1]
 
 ```
 ## Follow this link for further updates to Github Desktop for Ubuntu https://github.com/shiftkey/desktop/releases/latest
