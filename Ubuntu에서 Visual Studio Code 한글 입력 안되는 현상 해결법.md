@@ -6,7 +6,9 @@ Ubuntu 19.10에서 Visual Studio Code 사용 중 한영 전환키를 누르고 �
 ```
 sudo snap remove code
 ````
+
 다음 싸이트에서 .deb 형식의 Visual Studio Code를 직접 다운로드 받는다.
+
 ```
 https://code.visualstudio.com/download
 ```
