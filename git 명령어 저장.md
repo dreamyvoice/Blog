@@ -4,11 +4,11 @@
 
 ```git add -> git commit -> git push -> pull req```
 
-git add <file name>
+```git add <file name>```
   
-git commit -m "<send any message log>"
+```git commit -m "<send any message log>"```
  
-git push origin <brunch name>
+```git push origin <brunch name>```
   
 github 페이지에서 풀리퀘 제출
   
