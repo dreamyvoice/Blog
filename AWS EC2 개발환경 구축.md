@@ -8,6 +8,7 @@ sudo apt update
 nmv 설치 링크
 https://github.com/nvm-sh/nvm
 
+3.
 
 node 설치
 ```
