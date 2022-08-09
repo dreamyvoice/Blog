@@ -23,3 +23,10 @@ sudo apt install npm
 gitclone 하기위해서 ssh 생성
 
 test 진행
+
+
++++ 세션 만료시 nvm 사라지는 문제
+```
+export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+```
