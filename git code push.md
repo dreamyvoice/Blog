@@ -18,3 +18,10 @@ git commit -m "commit message"
 5.
 
 git push origin main
+
+
+
+----
+git barnch 변경
+
+git checkout <branch>
